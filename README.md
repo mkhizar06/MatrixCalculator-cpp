@@ -1,7 +1,7 @@
 # Matrix Calculator 📊
 
 A dynamic **Matrix Calculator** in C++ that can perform essential matrix operations:
-> ➕ Addition, ✖️ Multiplication, and 🐄 Transposition.
+> ➕ Addition, ✖️ Multiplication, and Transposition.
 
 ---
 
